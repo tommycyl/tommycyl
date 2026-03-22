@@ -16,13 +16,14 @@
 #### 📱 移动端与其它 (Mobile & Others)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
-#个人技能
+# 个人技能
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,vue,java,spring,py,mysql,swift,git,html,css&perline=10" />
   </a>
 </p>
 ---
+
 ### 📫 如何联系我
 
 * 📧 Email: tommycui.box@gmail.com
