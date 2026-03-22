@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 极简图标展示
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,vue,java,spring,py,mysql,swift,git,html,css&perline=10" />
