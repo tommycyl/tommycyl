@@ -1,4 +1,4 @@
-# 👋 你好，我是 [你的名字]
+#HI,你好，我是Tommy
 
 一个热爱技术的全栈开发探索者。
 
@@ -38,5 +38,5 @@
 ---
 
 ### 📫 如何联系我
-* 📧 Email: [你的邮箱]@example.com
+* 📧 Email: tommycui.box@gmail.com
 * 💬 正在学习: SwiftUI, 更多后端微服务架构
