@@ -21,6 +21,7 @@
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🤖 AI Agent & 工作流 (AI Agent & Workflow)
@@ -44,7 +45,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,java,spring,py,flask,mysql,swift,git,html,css,docker,kubernetes&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,java,spring,py,fastapi,flask,mysql,swift,git,html,css,docker,kubernetes&perline=10" />
   </a>
 </p>
 
