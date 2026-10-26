@@ -61,4 +61,4 @@
 ### 📫 如何联系我
 
 * 📧 Email: tommycui.box@gmail.com
-* 💬 正在学习: SwiftUI、Kubernetes、AI Agent、LangGraph，以及更多后端微服务架构
+* 💬 正在学习: SwiftUI、Rag、LangGraph，以及更多后端微服务架构
