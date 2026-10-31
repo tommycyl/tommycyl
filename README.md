@@ -16,7 +16,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ 后端 & 脚本 (Backend & Scripting)
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00838F?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +46,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,java,spring,py,fastapi,flask,mysql,swift,git,html,css,docker,kubernetes&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,java,spring,py,fastapi,flask,mysql,swift,git,html,css,docker,kubernetes,go&perline=10" />
   </a>
 </p>
 
